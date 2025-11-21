@@ -24,5 +24,5 @@ Setiap pertemuan akan dilengkapi dengan link menuju notebook *Google Colab* yang
 
 | No | Bagian | Deskripsi | Tautan |
 |----|--------|-----------|--------|
-| 1 | *Pertemuan 1* | Penjelasan Bab 1 — ERD (di Colab) | Link G-Colab di sini |
-| 2 | *Pertemuan 2* | Penjelasan Bab 2 — Pengantar Basis Data & DDL (di Colab) | Link G-Colab di sini |
+| 1 | *Pertemuan 1* | Penjelasan Bab 1 — ERD (di Colab) | (https://github.com/tegarpermanaputra21-sudo/praktikum-basisdata/blob/main/bab1.ipynb) |
+| 2 | *Pertemuan 2* | Penjelasan Bab 2 — Pengantar Basis Data & DDL (di Colab) | (https://colab.research.google.com/drive/1NOcBj2TkD8Ncsdo4NZsH0mqcpzeGknjR?usp=sharing) |
