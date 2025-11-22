@@ -26,3 +26,4 @@ Setiap pertemuan akan dilengkapi dengan link menuju notebook *Google Colab* yang
 |----|--------|-----------|--------|
 | 1 | *Pertemuan 1* | Penjelasan Bab 1 — ERD (di Colab) | (https://colab.research.google.com/drive/1SrVu-nefnD3SGDEZfr0q1QJzeiIEhRea?usp=sharing) |
 | 2 | *Pertemuan 2* | Penjelasan Bab 2 — Pengantar Basis Data & DDL (di Colab) | (https://colab.research.google.com/drive/1NOcBj2TkD8Ncsdo4NZsH0mqcpzeGknjR?usp=sharing) |
+| 3 | *Pertemuan 3* | Penjelasan Bab 3 —  DATA DEFINITION LANGUANGE (DDL) (di Colab) | (https://colab.research.google.com/drive/1rBVMBIsuTFRB3JEyo9neSZfkw_SOh4eR?usp=sharing) |
