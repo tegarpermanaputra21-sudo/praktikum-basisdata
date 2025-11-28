@@ -28,4 +28,4 @@ Setiap pertemuan akan dilengkapi dengan link menuju notebook *Google Colab* yang
 | 2 | *Pertemuan 2* | Penjelasan Bab 2 — Pengantar Basis Data & DDL | (https://colab.research.google.com/drive/1NOcBj2TkD8Ncsdo4NZsH0mqcpzeGknjR?usp=sharing) |
 | 3 | *Pertemuan 3* | Penjelasan Bab 3 — DATA DEFINITION LANGUANGE (DDL) | (https://colab.research.google.com/drive/1rBVMBIsuTFRB3JEyo9neSZfkw_SOh4eR?usp=sharing) |
 | 4 | *Pertemuan 4* | Penjelasan Bab 4 — ALTER, MODIFY , DROP , RENAME (DDL) | (https://colab.research.google.com/gist/tegarpermanaputra21-sudo/0004cce358ba1d29b32a95e5bab25802/bab4.ipynb) |
-| 5 | *Pertemuan 5* | Penjelasan Bab 5 — DATA MANIPULATION LANGUAGE (DML) | (https://colab.research.google.com/gist/tegarpermanaputra21-sudo/0004cce358ba1d29b32a95e5bab25802/bab4.ipynb) |
+| 5 | *Pertemuan 5* | Penjelasan Bab 5 — DATA MANIPULATION LANGUAGE (DML) | (https://colab.research.google.com/drive/1tlTzJfHTjwNnb0SYnWx7TwsnZfcUrL5F?usp=sharing) |
