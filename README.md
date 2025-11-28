@@ -24,6 +24,7 @@ Setiap pertemuan akan dilengkapi dengan link menuju notebook *Google Colab* yang
 
 | No | Bagian | Deskripsi | Tautan |
 |----|--------|-----------|--------|
-| 1 | *Pertemuan 1* | Penjelasan Bab 1 — ERD (di Colab) | (https://colab.research.google.com/drive/1SrVu-nefnD3SGDEZfr0q1QJzeiIEhRea?usp=sharing) |
-| 2 | *Pertemuan 2* | Penjelasan Bab 2 — Pengantar Basis Data & DDL (di Colab) | (https://colab.research.google.com/drive/1NOcBj2TkD8Ncsdo4NZsH0mqcpzeGknjR?usp=sharing) |
-| 3 | *Pertemuan 3* | Penjelasan Bab 3 —  DATA DEFINITION LANGUANGE (DDL) (di Colab) | (https://colab.research.google.com/drive/1rBVMBIsuTFRB3JEyo9neSZfkw_SOh4eR?usp=sharing) |
+| 1 | *Pertemuan 1* | Penjelasan Bab 1 — ERD | (https://colab.research.google.com/drive/1SrVu-nefnD3SGDEZfr0q1QJzeiIEhRea?usp=sharing) |
+| 2 | *Pertemuan 2* | Penjelasan Bab 2 — Pengantar Basis Data & DDL | (https://colab.research.google.com/drive/1NOcBj2TkD8Ncsdo4NZsH0mqcpzeGknjR?usp=sharing) |
+| 3 | *Pertemuan 3* | Penjelasan Bab 3 —  DATA DEFINITION LANGUANGE (DDL) | (https://colab.research.google.com/drive/1rBVMBIsuTFRB3JEyo9neSZfkw_SOh4eR?usp=sharing) |
+| 4 | *Pertemuan 4* | Penjelasan Bab 4 —   ALTER, MODIFY , DROP , RENAME (DDL) | (https://colab.research.google.com/gist/tegarpermanaputra21-sudo/0004cce358ba1d29b32a95e5bab25802/bab4.ipynb) |
